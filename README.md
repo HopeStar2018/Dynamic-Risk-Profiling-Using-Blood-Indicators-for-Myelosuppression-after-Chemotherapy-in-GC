@@ -21,4 +21,4 @@ Submitted to Journal
 
 Please report bugs to the [Github issues page](https://github.com/HopeStar2018/Dynamic-Risk-Profiling-Using-Blood-Indicators-for-Myelosuppression-after-Chemotherapy-in-GC/issues)
 
-E-mail any questions to 2017110177@cmu.edu.cn.com
+E-mail any questions to 2017110177@cmu.edu.cn
