@@ -9,8 +9,16 @@ As one of the most common adverse effects of chemotherapy, myelosuppression caus
 
 ## Web Tools
 
+The interactive web tool is available at [GCMRI vignette](https://dpap-apps.yiducloud.com.cn/cdss-single-disease/#/cmu1h_gc/quick-diagnosis?treatment_plan_id=a52b913f-fab2-4673-baf6-8398a7d517d5&standalone=1&lang=en&nologin=1)
+
+![image](https://github.com/HopeStar2018/Dynamic-Risk-Profiling-Using-Blood-Indicators-for-Myelosuppression-after-Chemotherapy-in-GC/blob/main/images/Figure8_WebTools.png)
+
+## References
+
+Submitted to Journal
+
 ## Reporting bugs
 
-Please report bugs to the [Github issues page]()
+Please report bugs to the [Github issues page](https://github.com/HopeStar2018/Dynamic-Risk-Profiling-Using-Blood-Indicators-for-Myelosuppression-after-Chemotherapy-in-GC/issues)
 
-E-mail any questions to dongqiangzeng0808@gmail.com
+E-mail any questions to 2017110177@cmu.edu.cn.com
